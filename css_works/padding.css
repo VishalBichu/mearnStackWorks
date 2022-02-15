@@ -1,0 +1,17 @@
+div{
+    
+    width: 50%;
+    height: 300px;
+    background-color: rgb(73, 113, 114);
+    /* padding: 100px; */
+    padding-left: 100px;
+    padding-top: 100px;
+    /* padding left-right-top=bottom */
+}
+div p{
+    color: rgb(237, 166, 100);
+}
+h1{
+    color: crimson;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+div{
+    /* width: 300px; */
+    /* height: 100px; */
+    background-color: #4682b4;
+    color: wheat;
+    position: sticky;
+    /* left: 200px; */
+    top: 100px;
+}

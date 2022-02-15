@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(32, 32, 68);
+}
+body {
+    background-color: rgb(158, 158, 233);
+}
+div{
+    background-color: rgb(92, 207, 228);
+    height: 300px;
+    width: 700px;
+    border: red 5px solid;    
+    
+}

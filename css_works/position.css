@@ -1,0 +1,31 @@
+.row{
+    width: 50%;
+    height: 500px;
+    background-color: skyblue;
+    position: relative;
+}
+.col{
+    width: 100px;
+    height: 300px;
+    border: teal solid 2px;
+}
+.col-1{
+    position: absolute;
+    left: 5px;
+    background-color: seashell;
+}
+.col-2{
+    position: absolute;
+    left: 105px;
+    background-color: rgb(243, 247, 10);
+}
+.col-3{
+    position: absolute;
+    left: 210px;
+    background-color: rgb(245, 113, 19);
+}
+.col-4{
+    position: absolute;
+    left: 315px;
+    background-color: springgreen;
+}

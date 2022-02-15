@@ -1,0 +1,8 @@
+div{
+    background-color: teal;
+    height: 300px;
+    width: 300px;
+    margin-top: 400px;
+    margin-left: 400px;
+    /* margin left right top bottom */
+}

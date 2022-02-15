@@ -1,0 +1,14 @@
+div{
+    height:300px ;
+    width: 300px;
+
+}
+#box1{
+    background-color: tomato;
+    margin-top:100px ;
+}
+#box2{
+    background-color: turquoise;
+    margin-left: 350px;
+    margin-top: -298px;
+}
